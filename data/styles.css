@@ -55,6 +55,10 @@
 }
 .arrow {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .sticky_2 {
   text-align:left;
 }
@@ -63,6 +67,8 @@
 }
 .marker {
   color:#FFFFFF;
+}
+.box_1 {
 }
 .ellipse {
 }
